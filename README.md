@@ -1,6 +1,6 @@
-# juegoEspacial
-
-Simple juego espacial de naves y extraterrestres
+Juego Espacial
+================
+Simple juego espacial de naves y extraterrestres escrito en [Swift](https://swift.org/) para el sistema operativo IOS
 
 ![image](screenshots/Captura2.png)
 
